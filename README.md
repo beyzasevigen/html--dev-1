@@ -1,4 +1,4 @@
-# html--dev-1
+# html-odev-1
 kodluyoruz eğitimdeki birinci html ödevidir
 ## about
 html'de başlık, paragraf ve yorum eklemeyi pratik yapmayı amaçlar
